@@ -157,3 +157,24 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
+
+
+
+// Navigation buttons functionality
+const navLinks = document.querySelectorAll('[data-nav-link]');
+const pages = document.querySelectorAll('[data-page]');
+
+navLinks.forEach(link => {
+  link.addEventListener('click', function() {
+    const targetPage = this.getAttribute('data-nav-link');
+
+    // Remove active class from all links and pages
+    navLinks.forEach(link => link.classList.remove('active'));
+    pages.forEach(page => page.classList.remove('active'));
+
+    // Add active class to the clicked link and corresponding page
+    this.classList.add('active');
+    document.querySelector(`[data-page="${targetPage}"]`).classList.add('active');
+  });
+});
+
