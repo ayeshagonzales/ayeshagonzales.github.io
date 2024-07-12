@@ -212,7 +212,6 @@ article[data-page] { display: none; }
 
 article[data-page].active {
   display: block;
-  animation: fade 0.5s ease backwards;
 }
 
 @keyframes fade {
@@ -561,7 +560,7 @@ main {
   #RESUME
 \*-----------------------------------*/
 
-.article-title { margin-bottom: 30px; }
+.resume .article-title { margin-bottom: 30px; }
 
 
 /**

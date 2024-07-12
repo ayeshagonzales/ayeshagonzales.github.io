@@ -4,7 +4,7 @@ vCard - Personal Portfolio
 
 alt = Ayesha Gonzales
 Ayesha Gonzales
-Web developer
+Biophysics
 
 Show Contacts
 
@@ -18,9 +18,7 @@ San Antonio, Texas, USA
 
 About
 Resume
-Portfolio
-Blog
-Contact
+Publications
 
 # about
 
@@ -32,51 +30,23 @@ My interests include machine learning, biophysics, mathematical physics, modelin
 
 ## service
 
-What i'm doing
+Research areas
 
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+alt = NN icon
+Machine Learning Analysis for Microscopy
+Created a robust machine learning analysis for analyzing cell adhesion dynamics in microscopy data.
 
-alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+alt = Data icon
+Data Profiling
+Profiled data for over 2 billion Centers for Medicare & Medicaid Services claims.
 
-alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+alt = chat icon
+Question-Answering for Knowledge Graphs
+Implemented vector databases to help users query knowledge graph by interacting with a chat bot.
 
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
-
-
-## testimonials
-
-Testimonials
-
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-
-## clients
-
-Clients
-
-alt = client logo
+alt = error bar icon
+Measuring Uncertainty for Neural Network Predictions
+Compared the efficacy of algorithms intended to detect new classes of objects.
 
 
 
@@ -86,148 +56,59 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Case Western Reserve University
+Ph.D. Physics (Expected September 2024)
+Research focus: machine learning applications in biophysics; visualization of neural network loss landscapes.
+Awarded NSF Graduate Research Fellowship for support of a research-based doctoral degree at an accredited institution.
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
-
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+St. Edward's University
+B.S., Mathematics
+Dean's list, McKemie Scholar, CAMP Scholar, Minor in Physics
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Data Science Intern, Noblis
+May 2022 — August 2022, June 2023 — February 2024
+Profiled data for over 2 billion Centers for Medicare & Medicaid Services claims
+Developed a fraud, waste and abuse detection algorithm
+Improved performance of semantic search model to develop SPARQL queries
+Developed model testing framework for semantic search model
+Explored question answering systems with vector databases
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Research Assistant, Case Western Reserve University
+May 2020 — Present
+Developed machine learning algorithm for processing images taken with a novel microscopy technique
+Developed algorithm to track cell dynamics over time using a high-performance computing cluster
+Collaborated with engineers to make models accessible and robust
+Explored visualization methods for neural network training loss landscapes
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Deep Learning Research Intern, Rochester Institute of Technology
+May 2018 — August 2018
+Implemented deep neural networks for machine learning
+Developed testing framework to compare various open-set algorithms in deep neural networks
 
-My skills
+Top skills
 
-Web design
-80%
-Graphic design
-70%
-Branding
-90%
-WordPress
-50%
-
-
-
-# portfolio
-
-Portfolio
-
-All
-Web design
-Applications
-Web development
-
-Select category
-All
-Web design
-Applications
-Web development
-
-alt = finance
-Finance
-Web development
-
-alt = orizon
-Orizon
-Web development
-
-alt = fundo
-Fundo
-Web design
-
-alt = brawlhalla
-Brawlhalla
-Applications
-
-alt = dsm.
-DSM.
-Web design
-
-alt = metaspark
-MetaSpark
-Web design
-
-alt = summary
-Summary
-Web development
-
-alt = task manager
-Task Manager
-Applications
-
-alt = arrival
-Arrival
-Web development
+Python
+Expert, 6 years experience
+Machine Learning
+Expert, 6 years experience
+Natural Language Processing
+Expert, 2 years experience
+Cloud Computing
+Expert, 4 years experience
 
 
 
-# blog
+# publications
 
-Blog
+Publications
 
-alt = Design conferences in 2022
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+3. Goreke, U., Gonzales, A., Shipley, B., Man, Y., Wulftange, W., An, R., Hinczewski, M., & Gurkan, U. A. (Under Revision for Nature Communications). Motion Blur Microscopy.
+bioRxiv preprint: https://doi.org/10.1101%2F2023.10.08.561435
 
-alt = Best fonts every designer
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+2. Praljak, N., Shipley, B., Gonzales, A., Goreke, U., Iram, S., Singh, G., Hill, A., Gurkan, U.A. & Hinczewski, M. (2020). A Deep Learning Framework for Sickle Cell Disease Microfluidic Biomarker Assays. Blood, 136, pp.15-16.
+DOI: https://doi.org/10.1182/blood-2020-141693 || PDF: https://pdf.sciencedirectassets.com/778769/1-s2.0-S0006497118X60091/1-s2.0-S0006497118716406/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIF7uflEklv5Obo3muiFwaNjnsvfaUvrEJpQI5rezb1RzAiEAwKJwuuMQIOfl6UPqc00dc%2FyygI5K6auwK1bjJgcRBeUqswUITxAFGgwwNTkwMDM1NDY4NjUiDIWU2gfKCU0kJTkJYiqQBb4rFbJASXau5Ghj0AZuZDUSbw87mq89yIovClDNHrjSbLiRawGAh1a5tfTrCcc4Dvg4aqGJ35If70U6tq1XUY8rDTHmQKjidwDo30JgTwxFDvDCgPi3PuvR1i8vhNzNU1%2BPXOu3nnEthu3cMk2x8%2BNALjsRM22c8%2F1q5b3B%2BxKd9iQW4olDWE%2F90NiayctCR2vUrl0djLyFe4xx7SgS2ab4d4qvkSWymCOFBSJwqz7D5wKeq0sE9NzCFVPqV6lddI%2F0lMCWEyCIRH297UjFlEYcIOkM2A%2BqDZrEWN%2Bj4BRawGHwdYbqX2D6KWi1r%2FRMPu4dZCnNbPnJ9PeQISJcJjE7vDhMWkoIuKheXW1iTxhHK88cqAsNDHZ84yqp5YfWLGpc8XBcq2KdKBKy3UCHVMO1WM09E8d2l6Mv2RUbokB7yns%2FSYh6J4pW0WyAYbXOfo%2BW4JLmJW4bTDIKv5DcPHDYw0STwiA1vc2A5ApVn%2BEBr3wuc1Nr1arNi4xsr7ovj%2F97dSD77RLOhkHF4JHjsfMmzJWAa3iFqiRN6f0kN6amCdrKNOjgur6vgDtLlXYgzs5V%2Betbq6VlbdXx88Tmd0tqUi6li64kBX4IBqoQi2RrJyUn1mJMIlqdJHF6KlTLHaInHx2c0lHmBPxKpVf2aH659DlsYRLi3q7hL03TtQdFBbstguArlthLwG5vd2mQTjtz3Up90Bi7N4Rft6fmhOUv5JHyNN9F1mUnjpVTekNuq2O6hSXklHfS1vpCHSrsEor%2FbALHcPxT3sVgXMbiUkUMc8%2BB8KLspEnQfn%2BRxGm7tL07OLwLBkOfjggwH0YR2jZ3ZiwwNiShHtKpoMIIdAhLkpouwFsw30F4Mvqsd2EaMLGNvLQGOrEB4z%2BZ6H0tGokvEeaWaE7ZPjo%2BYi5xCeC4AWNUFBRbAFkGURiWttLd9D9SxWJsl3Xzow5jH%2FOHNcpVzQedNJpTJNbBeIlG3mTR%2Bu9iH%2FwGvQ1Uz7txvgy2bwfVm%2F6g5qFYt6oKo0CTdCgVOAHavswlXe67k%2FYDicjsAEt76T9MdGuFI6i%2BS7RX9SNS9ucrlAqKIH6StcnFVA0DEy9mEeMwE70JMLhS%2FZdgermy4%2FoTQg7N&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240710T223031Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYQC3DEGKC%2F20240710%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3d8f814a85ca4a380193dca459bbfc9b2bd8c4635a52879aaedffe880cdaa359&hash=d86c5524e76a20621a8a40afc026c1f277498f64bff63c38c6c446717f94089c&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0006497118716406&tid=spdf-afab3fa4-04ce-4362-8cd2-1432590128e4&sid=22f72c4a2d6c404b972a4f599a7c992ee138gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=17155c065655090104&rr=8a13ffaeabf422e8&cc=us
 
-alt = Design digest #80
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
-
-alt = UI interactions of the week
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
-
-alt = The forgotten art of spacing
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-alt = Design digest #79
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
-
-
-
-# contact
-
-Contact
-
-Contact Form
-
-Full name
-Email address
-Your Message
-
-Send Message
+1. Roady, R., Hayes, T. L., Kemker, R., Gonzales, A., & Kanan, C. (2020). Are open set classification methods effective on large-scale datasets?. Plos one, 15(9), e0238302.
+DOI: https://doi.org/10.1371/journal.pone.0238302 || PDF: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0238302&type=printable
