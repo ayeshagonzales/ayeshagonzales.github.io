@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Ayesha Gonzales
-Ayesha Gonzales
+alt = Ayesha (Gonzales) Spanfelner
+Ayesha (Gonzales) Spanfelner
 Biophysics
 
 Show Contacts
@@ -57,7 +57,7 @@ Resume
 Education
 
 Case Western Reserve University
-Ph.D. Physics (Expected September 2024)
+Ph.D. Physics (Expected Spring 2025)
 Research focus: machine learning applications in biophysics; visualization of neural network loss landscapes.
 Awarded NSF Graduate Research Fellowship for support of a research-based doctoral degree at an accredited institution.
 
