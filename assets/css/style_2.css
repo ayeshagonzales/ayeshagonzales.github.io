@@ -1332,4 +1332,11 @@ main {
 
   .timeline-text { max-width: 700px; }
 
+  .lowercase {
+    text-transform: lowercase;
+    display: inline;
+    white-space: nowrap;
+  }
+  
+
 }
